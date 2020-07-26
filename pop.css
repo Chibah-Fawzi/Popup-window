@@ -6,10 +6,11 @@
         background-image: url('algiers.jpg');
         background-position: auto;
         background-repeat: no-repeat;
+        margin: 0;
         background-size: cover;
         height: auto;
         width: auto;
-        transition: 2s;
+        transition: 0.5s;
         /* filter: blur(6px);  */
     }
     
